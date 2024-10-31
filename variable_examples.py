@@ -50,4 +50,4 @@ birth_state = "Illinois"
 
 ## The try statement is used to make a try… except statement. The try statement starts a block of code that is tried to execute. If it fails, the except block catches the error.
 
-## The as statement in Python re-assigns a returned object to a new identifier. Basically, it creates an alias.
+## The as statement in Python re-assigns a returned object to a new identifier. Basically, it creates an alias

@@ -14,4 +14,4 @@ print("Food cost is " + str(food_cost) + " and tax is " + str(tax))  # Corrected
 print("Tip is " + format(tip, ".2f"))
 print("Total due is " + str(total_due))  # Corrected quotes
 
-#Bonus quesiton " " won't work within the string, had to remove to get code to run.
+#Bonus quesiton " " won't work within the string, had to remove to get code to run 
